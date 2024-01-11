@@ -2,7 +2,7 @@
 
 <b>Name</b>: Janette Julia Koskinen 
 
-<b>Profession</b>: Information Processing Sience student, also a radiographer
+<b>Profession</b>: Information Processing Science student, also a radiographer
 
 <b>Location</b>: Oulu
 
